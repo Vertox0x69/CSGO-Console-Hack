@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Sources">
+      <UniqueIdentifier>{b9de050e-9378-41e9-99c5-4b081e66ed3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sources\Game">
+      <UniqueIdentifier>{eef06396-c4df-4d52-b28f-e4329d16cf7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sources\CPU Fucker">
+      <UniqueIdentifier>{38d87a01-4163-4370-a7d4-4f282156bb7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sources\Helper">
+      <UniqueIdentifier>{344be0a7-1d57-41f8-acc9-0dc1d3c43792}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sources\Functions">
+      <UniqueIdentifier>{157bdf89-3ac1-4fc4-9c24-7b31c6d58b8e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Offsets.hpp">
+      <Filter>Header Files\Sources\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager.hpp">
+      <Filter>Header Files\Sources\CPU Fucker</Filter>
+    </ClInclude>
+    <ClInclude Include="Helper.hpp">
+      <Filter>Header Files\Sources\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.hpp">
+      <Filter>Header Files\Sources\Functions</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

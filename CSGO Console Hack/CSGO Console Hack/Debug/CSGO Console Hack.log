@@ -1,0 +1,22 @@
+﻿  MainFile.cpp
+C:\Users\azion\source\repos\CSGO Console Hack\CSGO Console Hack\Functions.hpp(112,63): warning C4244: 'argument': conversion from 'int' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\azion\source\repos\CSGO Console Hack\CSGO Console Hack\Functions.hpp(113,63): warning C4244: 'argument': conversion from 'int' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\azion\source\repos\CSGO Console Hack\CSGO Console Hack\Functions.hpp(114,64): warning C4244: 'argument': conversion from 'int' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\azion\source\repos\CSGO Console Hack\CSGO Console Hack\Functions.hpp(115,64): warning C4244: 'argument': conversion from 'int' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CSGO Console Hack.vcxproj -> C:\Users\azion\source\repos\CSGO Console Hack\Debug\CSGO Console Hack.exe
